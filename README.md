@@ -22,7 +22,6 @@ This project contains an HR data analysis report. The dataset was cleaned and pr
 - Python (Data Cleaning & Preprocessing)
 - Exploratory Data Analysis (EDA)
 - Power BI (Dashboards & Reporting)
-- Excel (optional)
 - Data Visualization
 - HR Analytics
 
